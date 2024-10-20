@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning java & C++
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 23301069@bjtu.edu.cn
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+![Visitor Count](https://profile-counter.glitch.me/NorthOuterTowner/count.svg)
+
 
 <!---
 NorthOuterTowner/NorthOuterTowner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

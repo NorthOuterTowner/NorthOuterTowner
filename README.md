@@ -7,6 +7,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/NorthOuterTowner/count.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthOuterTowner&layout=compact&theme=tokyonight)
 
 

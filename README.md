@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NorthOuterTowner
-- 👀 I’m interested in reading
-- 🌱 I’m currently learning java & C++
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me 23301069@bjtu.edu.cn
+- 👋 Hi, I'm looking forward collaborating on Github
+- 👀 I'm looking for opportunity of part-time job
+- 🌱 Learning a bit of java, C/Cpp, Python, HTML&CSS, JavaScript, Deep Learning, Vue.
+     These days I usually write Cpp in Qt now.
+- 📫 How to reach me: 23301069@bjtu.edu.cn
 # Visited Amount
 ![Visitor Count](https://profile-counter.glitch.me/NorthOuterTowner/count.svg)
 

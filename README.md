@@ -1,6 +1,6 @@
 - 👋 Hi, I'm looking forward collaborating on Github
 - 👀 I'm looking for opportunity of part-time job
-- 🌱 Learning a bit of java, C/Cpp, Python, HTML&CSS, JavaScript, Deep Learning, Vue.
+- 🌱 Learning a bit of java, C/Cpp->Qt, Python, HTML&CSS&JS->Vue3, Node.js->Express.
      These days I usually write Cpp in Qt now.
 - 📫 How to reach me: 23301069@bjtu.edu.cn
 # Visited Amount

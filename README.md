@@ -3,8 +3,6 @@
 - 🌱 Learning a bit of java, C/Cpp->Qt, Python, HTML&CSS&JS->Vue3, Node.js->Express.
      These days I usually write Cpp in Qt now.
 - 📫 How to reach me: 23301069@bjtu.edu.cn
-# Visited Amount
-![Visitor Count](https://profile-counter.glitch.me/NorthOuterTowner/count.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent)
 

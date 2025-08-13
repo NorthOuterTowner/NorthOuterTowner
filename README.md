@@ -2,6 +2,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent)
 
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthOuterTowner&layout=compact&theme=tokyonight)
 
 

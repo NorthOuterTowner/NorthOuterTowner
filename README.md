@@ -1,8 +1,4 @@
-- 👋 Hi, I'm looking forward collaborating on Github
-- 👀 I'm looking for opportunity of part-time job
-- 🌱 Learning a bit of java, C/Cpp->Qt, Python, HTML&CSS&JS->Vue3, Node.js->Express.
-     These days I usually write Cpp in Qt now.
-- 📫 How to reach me: 23301069@bjtu.edu.cn
+# 💫 Hi, this is NorthOuterTowner
 
 ![](https://github-readme-stats.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent)
 

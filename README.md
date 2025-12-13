@@ -9,11 +9,3 @@
 
 #### Frameworks
 ![Qt](https://img.shields.io/badge/qt-%2341CD52.svg?style=flat&logo=qt&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=flat&logo=express&logoColor=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthOuterTowner&layout=compact&theme=tokyonight)
-
-
-<!---
-NorthOuterTowner/NorthOuterTowner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

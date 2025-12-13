@@ -12,7 +12,6 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 
@@ -25,7 +24,6 @@
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
 ![Pinia](https://img.shields.io/badge/pinia-%23FFD859.svg?style=flat&logo=pinia&logoColor=black)
 ![Vue Router](https://img.shields.io/badge/vue--router-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -41,7 +39,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=flat&logo=windows&logoColor=white)
 
 ---
@@ -49,3 +46,4 @@
 ### 📱 Mobile / Cross Platform
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
 ![WeChat Mini Program](https://img.shields.io/badge/WeChat%20Mini%20Program-07C160?style=flat&logo=wechat&logoColor=white)
+![uni-app](https://img.shields.io/badge/uni--app-%2322C55E.svg?style=flat&logo=vue.js&logoColor=white)

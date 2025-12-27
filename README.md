@@ -46,12 +46,8 @@ All technique stacks that I have used in my projects are as follows, and the seq
 ### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=flat&logo=windows&logoColor=white)
-![HBuilderX](https://img.shields.io/badge/HBuilderX-DCloud-2F80ED?style=flat)
-![Apifox](https://img.shields.io/badge/Apifox-API%20Testing-FF6C37?style=flat)
-![HeidiSQL](https://img.shields.io/badge/HeidiSQL-Database%20Client-4479A1?style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-FE7A16?style=flat)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 ---
 

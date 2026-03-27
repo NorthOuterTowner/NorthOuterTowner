@@ -21,6 +21,8 @@ All technique stacks that I have used in my projects are as follows, and the seq
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
 ![Pinia](https://img.shields.io/badge/pinia-%23FFD859.svg?style=flat&logo=pinia&logoColor=black)
 ![Vue Router](https://img.shields.io/badge/vue--router-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white)
 
 ---
 

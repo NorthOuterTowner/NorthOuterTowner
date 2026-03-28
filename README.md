@@ -22,7 +22,7 @@ All technique stacks that I have used in my projects are as follows, and the seq
 ![Pinia](https://img.shields.io/badge/pinia-%23FFD859.svg?style=flat&logo=pinia&logoColor=black)
 ![Vue Router](https://img.shields.io/badge/vue--router-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220)
 
 ---
 
@@ -57,3 +57,10 @@ All technique stacks that I have used in my projects are as follows, and the seq
 ![WeChat Mini Program](https://img.shields.io/badge/WeChat%20Mini%20Program-07C160?style=flat&logo=wechat&logoColor=white)
 ![uni-app](https://img.shields.io/badge/uni--app-%2322C55E.svg?style=flat&logo=vue.js&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
+
+---
+
+### Learning on Progress
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=flat&logo=fastapi&logoColor=white)

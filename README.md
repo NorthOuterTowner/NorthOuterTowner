@@ -1,6 +1,8 @@
 # 💫 Hi, this is NorthOuterTowner
 
-![](https://github-readme-stats.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent)
+## GitHub stats:
+
+[![NorthOuterTowner's GitHub stats](https://github-readme-stats-mauve-seven-77.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent)](https://github.com/NorthOuterTowner/github-readme-stats)
 
 ## 💻 Tech Stack
 

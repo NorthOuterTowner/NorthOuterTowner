@@ -19,36 +19,34 @@ All technique stacks that I have used in my projects are as follows, and the seq
 
 ---
 
-### ⚙️ Frontend Frameworks & Tools
+### ⚙️ Frontend Tech Stack
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
 ![Pinia](https://img.shields.io/badge/pinia-%23FFD859.svg?style=flat&logo=pinia&logoColor=black)
 ![Vue Router](https://img.shields.io/badge/vue--router-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220)
+![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=flat&logo=element-plus&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white)
 
 ---
 
-### 🗄️ Backend Frameworks & Tools
+### 🗄️ Backend Tech Stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404d59?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logo=apache&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
-
----
-
-### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logo=apache&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 
 ---
 
 ### 🧰 Dev Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 

@@ -1,5 +1,14 @@
 # 💫 Hi, this is NorthOuterTowner
 
+## 👋 About Me
+
+- 🎓 Software Engineering undergraduate student at Beijing Jiaotong University.
+- 💼 Currently interning at Ericsson, focusing on software development and engineering practices.
+- 🔭 Interested in backend systems, AI agents, RAG systems, and distributed applications.
+- 🛠 Experienced in building full-stack applications with Java, Node.js, Vue, and Python.
+- 📚 Currently exploring cloud-native architecture, LLM applications, and system design.
+- 📫 Reach me: lrz08302005@163.com | lrz08302005@gmail.com
+
 ## GitHub stats:
 
 [![NorthOuterTowner's GitHub stats](https://github-readme-stats-mauve-seven-77.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent)](https://github.com/NorthOuterTowner/github-readme-stats)
@@ -64,3 +73,42 @@ All technique stacks that I have used in my projects are as follows, and the seq
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=flat&logo=fastapi&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🚆 Railway Driver Health Detection System
+
+A health monitoring platform designed for railway drivers.
+
+**Tech Stack**
+- Node.js
+- Vue3 + TypeScript
+- MySQL
+- Android
+- Python
+
+**Highlights**
+- Designed normalized MySQL database architecture.
+- Developed RESTful backend services.
+- Implemented JWT authentication and permission management.
+- Integrated Android terminal with backend services.
+- Built health data analysis pipeline with Python.
+
+### 🏥 Smart Campus Doctor System
+
+A campus medical service platform.
+
+**Tech Stack**
+Spring Boot | MyBatis Plus | Vue3 | Uni-app | Redis | MySQL
+
+**Highlights**
+
+- Designed backend service architecture based on Spring Boot.
+- Implemented high-concurrency data access optimization.
+- Used Redis caching and optimistic locking.
+- Tested system performance with JMeter (300 QPS).
+- Developed WeChat mini-program frontend.
+
+## 📈 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NorthOuterTowner)

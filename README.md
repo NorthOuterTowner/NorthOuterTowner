@@ -111,4 +111,4 @@ Spring Boot | MyBatis Plus | Vue3 | Uni-app | Redis | MySQL
 
 ## 📈 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NorthOuterTowner)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent&include_all_commits=true)

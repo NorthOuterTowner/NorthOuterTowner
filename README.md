@@ -1,13 +1,15 @@
 # 💫 Hi, this is NorthOuterTowner
 
+I'm an undergraduate student majoring in Software Engineering at **Beijing Jiaotong University** and currently working as a software engineer at **Ericsson**. 
+My passion lies in building efficient systems and applying **ML / DL / LLM** technologies to solve real-world problems, especially in the communications domain.
+
 ## 👋 About Me
 
-- 🎓 Software Engineering undergraduate student at Beijing Jiaotong University.
-- 💼 Currently interning at Ericsson, focusing on software development and engineering practices.
-- 🔭 Interested in backend systems, AI agents, RAG systems, and distributed applications.
-- 🛠 Experienced in building full-stack applications with Java, Node.js, Vue, and Python.
-- 📚 Currently exploring cloud-native architecture, LLM applications, and system design.
-- 📫 Reach me: lrz08302005@163.com | lrz08302005@gmail.com
+- 💼 **Software Engineer** @ Ericsson — developing backend services and system solutions for telecom applications.
+- 🎓 **Undergraduate** @ Beijing Jiaotong University — majoring in Software Engineering.
+- 🧠 **Currently exploring**: Agent-based systems and their practical applications in daily development workflows.
+- 🛠 **Tech Stack**: Node.js | Python | Vue | Flask | FastAPI | TypeScript
+- 📫 **Contact**: lrz08302005[at]163.com | lrz08302005[at]gmail.com
 
 ## GitHub stats:
 
@@ -18,18 +20,16 @@
 All technique stacks that I have used in my projects are as follows, and the sequence is from more familiar to less familiar.
 
 ### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
 
-### ⚙️ Frontend Tech Stack
+### ⚙️ Tech Stack
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 ![Pinia](https://img.shields.io/badge/pinia-%23FFD859.svg?style=flat&logo=pinia&logoColor=black)
 ![Vue Router](https://img.shields.io/badge/vue--router-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
@@ -37,9 +37,9 @@ All technique stacks that I have used in my projects are as follows, and the seq
 ![Element Plus](https://img.shields.io/badge/Element%20Plus-409EFF?style=flat&logo=element-plus&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white)
 
----
 
-### 🗄️ Backend Tech Stack
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404d59?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
@@ -68,11 +68,6 @@ All technique stacks that I have used in my projects are as follows, and the seq
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
 ---
-
-### Learning on Progress
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=flat&logo=fastapi&logoColor=white)
 
 ## 🚀 Featured Projects
 

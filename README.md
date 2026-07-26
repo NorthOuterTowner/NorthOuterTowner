@@ -9,7 +9,7 @@ My passion lies in building efficient systems and applying **ML / DL / LLM** tec
 - 🎓 **Undergraduate** @ Beijing Jiaotong University — majoring in Software Engineering.
 - 🧠 **Currently exploring**: Agent-based systems and their practical applications in daily development workflows.
 - 🛠 **Tech Stack**: Node.js | Python | Vue | Flask | FastAPI | TypeScript
-- 📫 **Contact**: lrz08302005[at]163.com | lrz08302005[at]gmail.com
+- 📫 **Contact**: lrz08302005@163.com | lrz08302005@gmail.com
 
 ## GitHub stats:
 

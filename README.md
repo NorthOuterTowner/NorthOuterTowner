@@ -14,9 +14,7 @@
 </p>
 
 </div>
-<div align="center">
-    <strong>Featured Project</strong>
-</div>
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -25,7 +23,7 @@
   
 #### 🌱 Internship Experience
 
-> 📄 [View LinkedIn →](https://linkedin.com/)
+> 📄 [View LinkedIn →](https://www.linkedin.com/in/ruize-li-185964383/)
 
 <p>
 <strong>Ericsson</strong> -- <code>System Team - Radio Log Agent Infra</code> -- <code>2026.3 to 2026.7.</code>
@@ -66,18 +64,10 @@
 </td>
 </table>
 
-# 💫 Hi, this is NorthOuterTowner
-
-I'm an undergraduate student majoring in Software Engineering at **Beijing Jiaotong University** and currently working as a software engineer at **Ericsson**. 
-My passion lies in building efficient systems and applying **ML / DL / LLM** technologies to solve real-world problems, especially in the communications domain.
-
-## 👋 About Me
-
-- 💼 **Software Engineer** @ Ericsson — developing backend services and system solutions for telecom applications.
-- 🎓 **Undergraduate** @ Beijing Jiaotong University — majoring in Software Engineering.
-- 🧠 **Currently exploring**: Agent-based systems and their practical applications in daily development workflows.
-- 🛠 **Tech Stack**: Node.js | Python | Vue | Flask | FastAPI | TypeScript
-- 📫 **Contact**: lrz08302005@163.com | lrz08302005@gmail.com
+- 🎓 Undergraduate student majoring in Software Engineering at **Beijing Jiaotong University** 
+- ![Ericsson](https://img.shields.io/badge/-000000?style=flat&logo=ericsson&logoColor=white) Working as a software engineer at Ericsson
+- 🚀 My passion lies in building efficient systems and applying **ML / DL / LLM** technologies to solve real-world problems, especially in the **hardware design** domain.
+- 📫 Contact: [lrz08302005@163.com](mailto:lrz08302005@163.com) | [lrz08302005@gmail.com](mailto:lrz08302005@gmail.com)
 
 ## GitHub stats:
 

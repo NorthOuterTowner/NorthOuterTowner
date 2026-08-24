@@ -27,12 +27,10 @@
 
 <p>
 <strong>Ericsson</strong> -- <code>System Team - Radio Log Agent Infra</code> -- <code>2026.3 to 2026.7.</code>
-
 <strong style="color:grey">Relative Skills</strong>: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vue.js&logoColor=%234FC08D) ![Pinia](https://img.shields.io/badge/pinia-%23FFD859.svg?style=flat&logo=pinia&logoColor=black) ![Vue Router](https://img.shields.io/badge/vue--router-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Axios](https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 <br/>
 <br/>
 <strong>Ericsson</strong> -- <code>PA Design Team - PA RF Tool developer</code> -- <code>2026.7 to 2027.1</code>
-
 <strong style="color:grey">Relative Skills</strong>: ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white) ![PA](https://img.shields.io/badge/PA-FF4500?style=flat&logo=spotify&logoColor=white)
 <br/>
 </p>

@@ -71,11 +71,7 @@
 - 🚀 My passion lies in building efficient systems and applying **ML / DL / LLM** technologies to solve real-world problems, especially in the **hardware design** domain.
 - 📫 Contact: [lrz08302005@163.com](mailto:lrz08302005@163.com) | [lrz08302005@gmail.com](mailto:lrz08302005@gmail.com)
 
-## GitHub stats:
-
-[![NorthOuterTowner's GitHub stats](https://github-readme-stats-mauve-seven-77.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent)](https://github.com/NorthOuterTowner/github-readme-stats)
-
-
-## 📈 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NorthOuterTowner)
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats-mauve-seven-77.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NorthOuterTowner" />
+</div>

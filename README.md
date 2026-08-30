@@ -73,7 +73,7 @@
 
 ---
 
-<div style="text-align:center">Github Status</div>
+<h3 align="center">📊 GitHub Status</h3>
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: space-between">
   <img src="https://github-readme-stats-mauve-seven-77.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent" />

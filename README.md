@@ -75,42 +75,6 @@
 
 [![NorthOuterTowner's GitHub stats](https://github-readme-stats-mauve-seven-77.vercel.app/api?username=NorthOuterTowner&show_icons=true&theme=transparent)](https://github.com/NorthOuterTowner/github-readme-stats)
 
----
-
-## 🚀 Featured Projects
-
-### 🚆 Railway Driver Health Detection System
-
-A health monitoring platform designed for railway drivers.
-
-**Tech Stack**
-- Node.js
-- Vue3 + TypeScript
-- MySQL
-- Android
-- Python
-
-**Highlights**
-- Designed normalized MySQL database architecture.
-- Developed RESTful backend services.
-- Implemented JWT authentication and permission management.
-- Integrated Android terminal with backend services.
-- Built health data analysis pipeline with Python.
-
-### 🏥 Smart Campus Doctor System
-
-A campus medical service platform.
-
-**Tech Stack**
-Spring Boot | MyBatis Plus | Vue3 | Uni-app | Redis | MySQL
-
-**Highlights**
-
-- Designed backend service architecture based on Spring Boot.
-- Implemented high-concurrency data access optimization.
-- Used Redis caching and optimistic locking.
-- Tested system performance with JMeter (300 QPS).
-- Developed WeChat mini-program frontend.
 
 ## 📈 GitHub Activity
 
